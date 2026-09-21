@@ -1,0 +1,181 @@
+Date,Order_ID,Product,Region,Sales_Rep,Quantity,Unit_Price,Category,Sales,Cost,Profit,Profit_Margin
+2025-01-01,ORD-0001,Mouse,Ontario,Morgan,5,75,Accessories,375,275.89,99.11,26.43
+2025-01-02,ORD-0002,Headset,Ontario,Alex,3,55,Accessories,165,113.54,51.46,31.19
+2025-01-04,ORD-0003,Keyboard,Alberta,Morgan,1,850,Accessories,850,503.53,346.47,40.76
+2025-01-06,ORD-0004,Headset,Quebec,Alex,1,25,Accessories,25,16.3,8.7,34.8
+2025-01-07,ORD-0005,Headset,Ontario,Casey,8,25,Accessories,200,110.14,89.86,44.93
+2025-01-09,ORD-0006,Monitor,British Columbia,Morgan,10,25,Computers,250,196.11,53.89,21.56
+2025-01-11,ORD-0007,Keyboard,Ontario,Taylor,11,120,Accessories,1320,756.12,563.88,42.72
+2025-01-12,ORD-0008,Keyboard,Ontario,Alex,2,75,Accessories,150,106.69,43.31,28.87
+2025-01-14,ORD-0009,Keyboard,Alberta,Alex,3,120,Accessories,360,293.86,66.14,18.37
+2025-01-16,ORD-0010,Headset,Alberta,Morgan,2,75,Accessories,150,104.23,45.77,30.51
+2025-01-17,ORD-0011,Mouse,Quebec,Taylor,3,120,Accessories,360,287.82,72.18,20.05
+2025-01-19,ORD-0012,Keyboard,British Columbia,Taylor,7,120,Accessories,840,515.55,324.45,38.62
+2025-01-21,ORD-0013,Webcam,Alberta,Casey,1,850,Accessories,850,641.91,208.09,24.48
+2025-01-23,ORD-0014,Headset,Ontario,Taylor,10,55,Accessories,550,381.39,168.61,30.66
+2025-01-24,ORD-0015,Monitor,Unknown,Taylor,8,120,Computers,960,714.76,245.24,25.55
+2025-01-26,ORD-0016,Mouse,Ontario,Taylor,10,850,Accessories,8500,4818.07,3681.93,43.32
+2025-01-28,ORD-0017,Webcam,Ontario,Jordan,10,40,Accessories,400,235.96,164.04,41.01
+2025-01-29,ORD-0018,Webcam,Alberta,Casey,10,55,Accessories,550,322.27,227.73,41.41
+2025-01-31,ORD-0019,Monitor,Quebec,Alex,2,120,Computers,240,176.53,63.47,26.45
+2025-02-02,ORD-0020,Mouse,British Columbia,Morgan,3,25,Accessories,75,58.35,16.65,22.2
+2025-02-03,ORD-0021,Headset,British Columbia,Alex,9,40,Accessories,360,270.86,89.14,24.76
+2025-02-05,ORD-0022,Laptop,Alberta,Casey,7,40,Computers,280,156.3,123.7,44.18
+2025-02-07,ORD-0023,Mouse,Alberta,Morgan,4,850,Accessories,3400,2666.1,733.9,21.59
+2025-02-08,ORD-0024,Monitor,Quebec,Casey,10,40,Computers,400,258.25,141.75,35.44
+2025-02-10,ORD-0025,Webcam,British Columbia,Taylor,5,55,Accessories,275,180.74,94.26,34.28
+2025-02-12,ORD-0026,Headset,British Columbia,Morgan,2,120,Accessories,240,138.8,101.2,42.17
+2025-02-14,ORD-0027,Mouse,British Columbia,Taylor,11,120,Accessories,1320,988.81,331.19,25.09
+2025-02-15,ORD-0028,Laptop,Ontario,Alex,8,25,Computers,200,119.84,80.16,40.08
+2025-02-17,ORD-0029,Laptop,British Columbia,Alex,4,850,Computers,3400,2387.72,1012.28,29.77
+2025-02-19,ORD-0030,Keyboard,Ontario,Morgan,9,25,Accessories,225,174.82,50.18,22.3
+2025-02-20,ORD-0031,Keyboard,Quebec,Morgan,5,40,Accessories,200,114.82,85.18,42.59
+2025-02-22,ORD-0032,Monitor,Ontario,Casey,9,25,Computers,225,156.27,68.73,30.55
+2025-02-24,ORD-0033,Mouse,Quebec,Casey,4,55,Accessories,220,134.85,85.15,38.7
+2025-02-25,ORD-0034,Mouse,British Columbia,Taylor,10,120,Accessories,1200,771.11,428.89,35.74
+2025-02-27,ORD-0035,Webcam,British Columbia,Morgan,5,40,Accessories,200,135.59,64.41,32.2
+2025-03-01,ORD-0036,Webcam,Quebec,Alex,9,25,Accessories,225,145.32,79.68,35.41
+2025-03-02,ORD-0037,Webcam,Alberta,Casey,8,850,Accessories,6800,4931.24,1868.76,27.48
+2025-03-04,ORD-0038,Keyboard,Quebec,Casey,3,55,Accessories,165,112.12,52.88,32.05
+2025-03-06,ORD-0039,Mouse,Alberta,Alex,1,55,Accessories,55,38.93,16.07,29.22
+2025-03-08,ORD-0040,Mouse,Ontario,Casey,3,25,Accessories,75,56.17,18.83,25.11
+2025-03-09,ORD-0041,Laptop,Ontario,Taylor,4,120,Computers,480,336.28,143.72,29.94
+2025-03-11,ORD-0042,Keyboard,Ontario,Morgan,2,25,Accessories,50,35.42,14.58,29.16
+2025-03-13,ORD-0043,Headset,British Columbia,Alex,1,40,Accessories,40,28.1,11.9,29.75
+2025-03-14,ORD-0044,Keyboard,Ontario,Morgan,7,25,Accessories,175,114.15,60.85,34.77
+2025-03-16,ORD-0045,Headset,Alberta,Casey,8,55,Accessories,440,282.09,157.91,35.89
+2025-03-18,ORD-0046,Laptop,Ontario,Casey,7,25,Computers,175,138.76,36.24,20.71
+2025-03-19,ORD-0047,Monitor,Quebec,Alex,5,120,Computers,600,428.42,171.58,28.6
+2025-03-21,ORD-0048,Mouse,Quebec,Taylor,1,850,Accessories,850,523.58,326.42,38.4
+2025-03-23,ORD-0049,Laptop,British Columbia,Jordan,7,75,Computers,525,359.38,165.62,31.55
+2025-03-24,ORD-0050,Mouse,Quebec,Alex,7,25,Accessories,175,111.86,63.14,36.08
+2025-03-26,ORD-0051,Webcam,Alberta,Jordan,9,120,Accessories,1080,866.26,213.74,19.79
+2025-03-28,ORD-0052,Monitor,Ontario,Jordan,3,120,Computers,360,198.73,161.27,44.8
+2025-03-30,ORD-0053,Monitor,British Columbia,Taylor,9,850,Computers,7650,4672.92,2977.08,38.92
+2025-03-31,ORD-0054,Laptop,Ontario,Jordan,1,55,Computers,55,35.68,19.32,35.13
+2025-04-02,ORD-0055,Monitor,Ontario,Jordan,1,120,Computers,120,81.81,38.19,31.82
+2025-04-04,ORD-0056,Headset,Alberta,Taylor,4,120,Accessories,480,374.27,105.73,22.03
+2025-04-05,ORD-0057,Monitor,Quebec,Jordan,9,120,Computers,1080,619.63,460.37,42.63
+2025-04-07,ORD-0058,Mouse,Quebec,Jordan,6,120,Accessories,720,552.66,167.34,23.24
+2025-04-09,ORD-0059,Mouse,Ontario,Jordan,11,40,Accessories,440,248.61,191.39,43.5
+2025-04-10,ORD-0060,Mouse,British Columbia,Alex,3,40,Accessories,120,93.29,26.71,22.26
+2025-04-12,ORD-0061,Mouse,Quebec,Alex,1,55,Accessories,55,31.02,23.98,43.6
+2025-04-14,ORD-0062,Headset,British Columbia,Alex,4,25,Accessories,100,55.49,44.51,44.51
+2025-04-15,ORD-0063,Keyboard,Quebec,Taylor,9,120,Accessories,1080,797.23,282.77,26.18
+2025-04-17,ORD-0064,Webcam,British Columbia,Casey,3,850,Accessories,2550,2089.11,460.89,18.07
+2025-04-19,ORD-0065,Laptop,Alberta,Jordan,9,25,Computers,225,178.22,46.78,20.79
+2025-04-21,ORD-0066,Mouse,British Columbia,Jordan,7,850,Accessories,5950,4197.84,1752.16,29.45
+2025-04-22,ORD-0067,Monitor,Alberta,Taylor,4,25,Computers,100,79.77,20.23,20.23
+2025-04-24,ORD-0068,Mouse,Alberta,Jordan,3,55,Accessories,165,90.99,74.01,44.85
+2025-04-26,ORD-0069,Monitor,British Columbia,Alex,10,120,Computers,1200,975.92,224.08,18.67
+2025-04-27,ORD-0070,Webcam,Alberta,Casey,5,120,Accessories,600,409.5,190.5,31.75
+2025-04-29,ORD-0071,Webcam,Ontario,Morgan,5,75,Accessories,375,279.44,95.56,25.48
+2025-05-01,ORD-0072,Webcam,Alberta,Jordan,3,850,Accessories,2550,1967.66,582.34,22.84
+2025-05-02,ORD-0073,Monitor,Quebec,Alex,9,25,Computers,225,167.4,57.6,25.6
+2025-05-04,ORD-0074,Mouse,British Columbia,Unassigned,4,25,Accessories,100,69.45,30.55,30.55
+2025-05-06,ORD-0075,Webcam,Ontario,Casey,11,40,Accessories,440,298.62,141.38,32.13
+2025-05-07,ORD-0076,Headset,British Columbia,Morgan,5,75,Accessories,375,291.16,83.84,22.36
+2025-05-09,ORD-0077,Monitor,Quebec,Alex,4,40,Computers,160,96.86,63.14,39.46
+2025-05-11,ORD-0078,Monitor,Quebec,Morgan,5,40,Computers,200,162.27,37.73,18.86
+2025-05-13,ORD-0079,Mouse,Quebec,Taylor,7,40,Accessories,280,207.75,72.25,25.8
+2025-05-14,ORD-0080,Monitor,Alberta,Morgan,9,850,Computers,7650,4619.58,3030.42,39.61
+2025-05-16,ORD-0081,Monitor,Alberta,Jordan,7,850,Computers,5950,4455.28,1494.72,25.12
+2025-05-18,ORD-0082,Webcam,British Columbia,Jordan,5,55,Accessories,275,190.59,84.41,30.69
+2025-05-19,ORD-0083,Mouse,British Columbia,Taylor,10,55,Accessories,550,407.52,142.48,25.91
+2025-05-21,ORD-0084,Webcam,Ontario,Alex,10,40,Accessories,400,302.92,97.08,24.27
+2025-05-23,ORD-0085,Webcam,Ontario,Jordan,7,75,Accessories,525,301.12,223.88,42.64
+2025-05-24,ORD-0086,Mouse,British Columbia,Casey,10,25,Accessories,250,171.66,78.34,31.34
+2025-05-26,ORD-0087,Laptop,Alberta,Jordan,5,850,Computers,4250,3406.99,843.01,19.84
+2025-05-28,ORD-0088,Webcam,Quebec,Jordan,3,75,Accessories,225,143.23,81.77,36.34
+2025-05-29,ORD-0089,Headset,British Columbia,Alex,7,120,Accessories,840,596.69,243.31,28.97
+2025-05-31,ORD-0090,Headset,Ontario,Morgan,11,850,Accessories,9350,6074.62,3275.38,35.03
+2025-06-02,ORD-0091,Monitor,Alberta,Jordan,11,850,Computers,9350,6289.3,3060.7,32.73
+2025-06-04,ORD-0092,Headset,British Columbia,Taylor,2,55,Accessories,110,76.79,33.21,30.19
+2025-06-05,ORD-0093,Monitor,British Columbia,Morgan,9,25,Computers,225,157.1,67.9,30.18
+2025-06-07,ORD-0094,Laptop,Alberta,Casey,10,25,Computers,250,151.12,98.88,39.55
+2025-06-09,ORD-0095,Mouse,British Columbia,Alex,10,120,Accessories,1200,881.8,318.2,26.52
+2025-06-10,ORD-0096,Mouse,Alberta,Casey,1,120,Accessories,120,68.85,51.15,42.62
+2025-06-12,ORD-0097,Mouse,Quebec,Morgan,6,850,Accessories,5100,2996.16,2103.84,41.25
+2025-06-14,ORD-0098,Headset,Alberta,Morgan,7,40,Accessories,280,154.2,125.8,44.93
+2025-06-15,ORD-0099,Laptop,Alberta,Morgan,8,55,Computers,440,255.86,184.14,41.85
+2025-06-17,ORD-0100,Headset,Alberta,Casey,10,55,Accessories,550,372.77,177.23,32.22
+2025-06-19,ORD-0101,Headset,British Columbia,Morgan,9,850,Accessories,7650,5459.4,2190.6,28.64
+2025-06-20,ORD-0102,Laptop,British Columbia,Casey,2,75,Computers,150,114.67,35.33,23.55
+2025-06-22,ORD-0103,Laptop,Alberta,Morgan,11,40,Computers,440,254.68,185.32,42.12
+2025-06-24,ORD-0104,Laptop,British Columbia,Taylor,10,850,Computers,8500,6627.42,1872.58,22.03
+2025-06-26,ORD-0105,Laptop,Ontario,Morgan,2,40,Computers,80,60.11,19.89,24.86
+2025-06-27,ORD-0106,Mouse,Ontario,Casey,5,40,Accessories,200,132.06,67.94,33.97
+2025-06-29,ORD-0107,Keyboard,British Columbia,Jordan,5,40,Accessories,200,160.38,39.62,19.81
+2025-07-01,ORD-0108,Keyboard,British Columbia,Morgan,6,850,Accessories,5100,4169.51,930.49,18.24
+2025-07-02,ORD-0109,Laptop,Alberta,Jordan,3,55,Computers,165,99.88,65.12,39.47
+2025-07-04,ORD-0110,Keyboard,Quebec,Taylor,8,55,Accessories,440,287.05,152.95,34.76
+2025-07-06,ORD-0111,Keyboard,British Columbia,Alex,1,40,Accessories,40,32.01,7.99,19.98
+2025-07-07,ORD-0112,Laptop,Ontario,Taylor,6,75,Computers,450,335.17,114.83,25.52
+2025-07-09,ORD-0113,Keyboard,Alberta,Morgan,4,25,Accessories,100,56.3,43.7,43.7
+2025-07-11,ORD-0114,Headset,British Columbia,Jordan,1,850,Accessories,850,646.86,203.14,23.9
+2025-07-12,ORD-0115,Monitor,Ontario,Jordan,7,25,Computers,175,135.37,39.63,22.65
+2025-07-14,ORD-0116,Monitor,Ontario,Casey,9,75,Computers,675,508.03,166.97,24.74
+2025-07-16,ORD-0117,Laptop,Quebec,Jordan,4,850,Computers,3400,2603.98,796.02,23.41
+2025-07-18,ORD-0118,Mouse,Alberta,Casey,4,40,Accessories,160,123.65,36.35,22.72
+2025-07-19,ORD-0119,Laptop,Alberta,Alex,6,55,Computers,330,198.11,131.89,39.97
+2025-07-21,ORD-0120,Mouse,Quebec,Morgan,3,25,Accessories,75,46.02,28.98,38.64
+2025-07-23,ORD-0121,Monitor,Quebec,Casey,6,120,Computers,720,519.2,200.8,27.89
+2025-07-24,ORD-0122,Laptop,Alberta,Alex,7,120,Computers,840,667.9,172.1,20.49
+2025-07-26,ORD-0123,Webcam,Alberta,Jordan,11,75,Accessories,825,524.18,300.82,36.46
+2025-07-28,ORD-0124,Headset,British Columbia,Jordan,10,40,Accessories,400,283.54,116.46,29.11
+2025-07-29,ORD-0125,Keyboard,British Columbia,Alex,10,25,Accessories,250,183.6,66.4,26.56
+2025-07-31,ORD-0126,Mouse,Quebec,Jordan,3,40,Accessories,120,80.64,39.36,32.8
+2025-08-02,ORD-0127,Webcam,British Columbia,Alex,7,25,Accessories,175,129.98,45.02,25.73
+2025-08-03,ORD-0128,Keyboard,Ontario,Casey,3,75,Accessories,225,178.4,46.6,20.71
+2025-08-05,ORD-0129,Keyboard,British Columbia,Casey,2,75,Accessories,150,107.78,42.22,28.15
+2025-08-07,ORD-0130,Laptop,British Columbia,Alex,10,120,Computers,1200,834.89,365.11,30.43
+2025-08-09,ORD-0131,Keyboard,Ontario,Casey,4,40,Accessories,160,106.95,53.05,33.16
+2025-08-10,ORD-0132,Headset,Quebec,Casey,8,850,Accessories,6800,4800.26,1999.74,29.41
+2025-08-12,ORD-0133,Webcam,Ontario,Casey,9,120,Accessories,1080,697.62,382.38,35.41
+2025-08-14,ORD-0134,Keyboard,British Columbia,Taylor,7,40,Accessories,280,183.6,96.4,34.43
+2025-08-15,ORD-0135,Laptop,Quebec,Morgan,1,120,Computers,120,83.23,36.77,30.64
+2025-08-17,ORD-0136,Headset,British Columbia,Jordan,3,850,Accessories,2550,1448.37,1101.63,43.2
+2025-08-19,ORD-0137,Monitor,Ontario,Taylor,9,55,Computers,495,302.86,192.14,38.82
+2025-08-20,ORD-0138,Webcam,Ontario,Casey,1,55,Accessories,55,38.31,16.69,30.35
+2025-08-22,ORD-0139,Keyboard,British Columbia,Alex,9,55,Accessories,495,329.92,165.08,33.35
+2025-08-24,ORD-0140,Laptop,Alberta,Casey,8,55,Computers,440,281.54,158.46,36.01
+2025-08-25,ORD-0141,Monitor,Alberta,Morgan,1,25,Computers,25,18.68,6.32,25.28
+2025-08-27,ORD-0142,Monitor,Ontario,Casey,6,55,Computers,330,243.31,86.69,26.27
+2025-08-29,ORD-0143,Mouse,Ontario,Alex,5,850,Accessories,4250,2528.82,1721.18,40.5
+2025-08-31,ORD-0144,Headset,Alberta,Morgan,6,75,Accessories,450,354.25,95.75,21.28
+2025-09-01,ORD-0145,Keyboard,Alberta,Casey,10,75,Accessories,750,512.82,237.18,31.62
+2025-09-03,ORD-0146,Laptop,British Columbia,Morgan,5,25,Computers,125,93.77,31.23,24.98
+2025-09-05,ORD-0147,Mouse,British Columbia,Jordan,6,55,Accessories,330,232.57,97.43,29.52
+2025-09-06,ORD-0148,Headset,Alberta,Jordan,5,55,Accessories,275,225.33,49.67,18.06
+2025-09-08,ORD-0149,Mouse,British Columbia,Casey,11,55,Accessories,605,455.66,149.34,24.68
+2025-09-10,ORD-0150,Webcam,British Columbia,Morgan,5,120,Accessories,600,444.53,155.47,25.91
+2025-09-11,ORD-0151,Headset,Quebec,Alex,4,40,Accessories,160,121.63,38.37,23.98
+2025-09-13,ORD-0152,Headset,British Columbia,Casey,3,120,Accessories,360,211.91,148.09,41.14
+2025-09-15,ORD-0153,Keyboard,Ontario,Jordan,3,40,Accessories,120,72.63,47.37,39.48
+2025-09-16,ORD-0154,Headset,British Columbia,Jordan,4,55,Accessories,220,163.42,56.58,25.72
+2025-09-18,ORD-0155,Mouse,British Columbia,Casey,9,55,Accessories,495,338.27,156.73,31.66
+2025-09-20,ORD-0156,Headset,Alberta,Morgan,2,120,Accessories,240,180.9,59.1,24.62
+2025-09-22,ORD-0157,Keyboard,Ontario,Jordan,9,120,Accessories,1080,624.01,455.99,42.22
+2025-09-23,ORD-0158,Keyboard,British Columbia,Morgan,1,40,Accessories,40,27.79,12.21,30.52
+2025-09-25,ORD-0159,Webcam,British Columbia,Jordan,1,75,Accessories,75,48.92,26.08,34.77
+2025-09-27,ORD-0160,Mouse,Quebec,Jordan,5,40,Accessories,200,134.68,65.32,32.66
+2025-09-28,ORD-0161,Monitor,British Columbia,Taylor,6,120,Computers,720,513.41,206.59,28.69
+2025-09-30,ORD-0162,Monitor,British Columbia,Jordan,6,850,Computers,5100,3496.65,1603.35,31.44
+2025-10-02,ORD-0163,Headset,Quebec,Alex,3,120,Accessories,360,250.47,109.53,30.42
+2025-10-03,ORD-0164,Webcam,Alberta,Casey,7,850,Accessories,5950,4053.83,1896.17,31.87
+2025-10-05,ORD-0165,Laptop,British Columbia,Casey,9,25,Computers,225,148.59,76.41,33.96
+2025-10-07,ORD-0166,Headset,Quebec,Morgan,11,120,Accessories,1320,1001.1,318.9,24.16
+2025-10-08,ORD-0167,Webcam,Ontario,Jordan,10,25,Accessories,250,138.32,111.68,44.67
+2025-10-10,ORD-0168,Mouse,Alberta,Alex,8,75,Accessories,600,426.95,173.05,28.84
+2025-10-12,ORD-0169,Mouse,Ontario,Morgan,6,40,Accessories,240,168.64,71.36,29.73
+2025-10-14,ORD-0170,Mouse,Ontario,Taylor,8,850,Accessories,6800,5054.9,1745.1,25.66
+2025-10-15,ORD-0171,Mouse,Quebec,Morgan,5,40,Accessories,200,142.35,57.65,28.82
+2025-10-17,ORD-0172,Mouse,British Columbia,Morgan,8,25,Accessories,200,154.65,45.35,22.68
+2025-10-19,ORD-0173,Webcam,Quebec,Jordan,10,850,Accessories,8500,6876.08,1623.92,19.1
+2025-10-20,ORD-0174,Webcam,Quebec,Taylor,4,40,Accessories,160,102.8,57.2,35.75
+2025-10-22,ORD-0175,Keyboard,Quebec,Morgan,10,120,Accessories,1200,733.66,466.34,38.86
+2025-10-24,ORD-0176,Monitor,Quebec,Alex,8,55,Computers,440,292.32,147.68,33.56
+2025-10-25,ORD-0177,Mouse,Alberta,Alex,10,25,Accessories,250,156.94,93.06,37.22
+2025-10-27,ORD-0178,Laptop,British Columbia,Casey,2,40,Computers,80,57.28,22.72,28.4
+2025-10-29,ORD-0179,Webcam,Ontario,Taylor,5,25,Accessories,125,99.53,25.47,20.38
+2025-10-31,ORD-0180,Laptop,Ontario,Taylor,9,25,Computers,225,132.2,92.8,41.24
